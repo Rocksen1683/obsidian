@@ -1,2 +1,1 @@
-
-Software Engineering @ UWaterloo 
+Software Engineering @ UWaterloo
