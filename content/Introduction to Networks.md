@@ -9,7 +9,6 @@ The *internet* is a network of managed networks and operation of networks is ver
 	- **ISP:** Internet Service Providers 
 	- **Protocols:** HTTP, Streaming. TCP, IP, WiFi, Ethernet
 	- **Programming Interface:** *hooks* allowing sending/receiving apps to *connect* to use the Internet transport service 
-	- 
 
 ### Network Protocols
 *Protocols* define the format, order of messages sent and received among network entities, and actions taken on message transmission, receipt. 
@@ -33,7 +32,8 @@ Important Protocols for the Internet:
 
 ### [[Network Links]]
 
-## Residential Networks
-### [[Digital Subscriber Line]]
+## [[Residential Networks]]
+## [[Enterprise Networks ]]
+## [[Datacenter Networks]]
 
-## Enterprise Networks 
+## [[Network Switching]]
