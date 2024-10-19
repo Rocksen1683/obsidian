@@ -10,8 +10,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/Rocksen1683",
       LinkedIn: "https://www.linkedin.com/in/ekanshh-praveen/",
-      X: "https://x.com/ekpraveenonx"
-      Resume: "https://drive.google.com/file/d/1xSoh0kQe2SBOsJDN4tzP8WRt2-YqJzi0/view?usp=sharing"
+      X: "https://x.com/ekpraveenonx",
+      Resume: "https://drive.google.com/file/d/1xSoh0kQe2SBOsJDN4tzP8WRt2-YqJzi0/view?usp=sharing",
     },
   }),
 }
