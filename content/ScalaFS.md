@@ -1,0 +1,3 @@
+**Project Link**: https://github.com/Rocksen1683/scalafs/tree/main
+
+`ScalaFS` is a fault-tolerant distributed file system written in Scala, designed to efficiently store and manage large-scale data across multiple nodes. The system leverages a `NameNode` for metadata management and `DataNodes` to handle the actual storage and replication of data blocks. It ensures reliability and fault tolerance through block replication and `DataNode` failure handling.
