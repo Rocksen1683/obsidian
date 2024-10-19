@@ -5,3 +5,6 @@
 - [[SISO Systems]]
 - [[Frequency Response]]
 - [[Bode Plots]]
+
+
+![[../Pasted image 20241019162143.png]]

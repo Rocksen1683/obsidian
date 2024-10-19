@@ -18,3 +18,7 @@ where $f(t)$ is the force in the forward direction and $C(p'(t))$ is the drag re
 For the above example, we can have the following representations of state 
 $$x(t) = \begin{bmatrix} p(t)  \\ p'(t) \\ p''(t) \end{bmatrix}$$
 ### [[Equilibrium Point]]
+
+In the case that you need to calculate the final value of some output signal, use [[Final Value Theorem]].
+
+Also refer [[One-sided Laplace Table]] and [[Laplace Properties]] which will help solve problems :) 
