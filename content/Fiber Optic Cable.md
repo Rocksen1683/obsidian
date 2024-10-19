@@ -1,0 +1,3 @@
+- Glass fiber carrying light pulses, each pulse a bit flexible 
+- High speed operation 
+- Low [[Bit Error Rate]]

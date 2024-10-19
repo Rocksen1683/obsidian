@@ -1,0 +1,1 @@
+The *traditional UNIX scheduler* employs *multilevel feedback* using [[Feedback Scheduling Policy]] and [[Round Robin Scheduling]] within each of the priority queues. The *time-slice* used here is $1$ second and if a process does not complete or get blocked within $1$ second, it gets *pre-emptively* moved. 

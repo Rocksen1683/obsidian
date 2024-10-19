@@ -1,0 +1,3 @@
+- Save *baseline* document state at some past point $S*$
+- Save *change records* to transform baseline document into current document state $S = (c(b(a(S*))))$
+- To undo last action, don't apply last change record $S = undo(c(b(a(S*)))) = (b(a(S*)))$

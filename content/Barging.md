@@ -1,0 +1,1 @@
+If threads are not serviced in first-come first-serve (FCFS) order of arrival, there is a notion of unfairness Unfairness implies waiting threads are overtaken by arriving threads, called ***barging***.

@@ -1,0 +1,3 @@
+- maintains the key characteristic of the sequential file: Records are organized in sequence based on a key field
+- New Features: *index to file* to support random access and *overflow file* is similar to the log file in [[Sequential File]] but is integrated 
+- 

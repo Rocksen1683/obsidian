@@ -1,0 +1,1 @@
+After a thread starts entry to the critical section, it must eventually enter. Not satisfying this rule is called ***starvation***.

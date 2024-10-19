@@ -1,0 +1,1 @@
+Consider worst case values (extreme) along with boundary conditions to get a more robust test plan 

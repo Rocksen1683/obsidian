@@ -1,0 +1,1 @@
+The *monitor* is a programming-language construct that provides equivalent functionality to that of semaphores and that is easier to control.

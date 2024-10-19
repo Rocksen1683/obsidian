@@ -1,0 +1,1 @@
+In a *network edge*, the hosts are clients and servers and they run *application programs*. You can find servers often in data centers

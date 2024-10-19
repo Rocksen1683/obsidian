@@ -1,0 +1,1 @@
+No *explicit* synchronization between processes

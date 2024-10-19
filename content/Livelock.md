@@ -1,0 +1,1 @@
+In selecting a thread for entry to a critical section, a selection cannot be postponed indefinitely (liveness). Not satisfying this rule is called indefinite postponement or ***livelock***.

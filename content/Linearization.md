@@ -1,0 +1,1 @@
+Making *non-linear* systems into a *linear* approximation to help solve a particular control system. 

@@ -1,0 +1,1 @@
+It's the process of storing the same shard in multiple servers to have copies in case of *hardware failures*.

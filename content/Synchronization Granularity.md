@@ -1,0 +1,1 @@
+Defined as the *frequency* of synchronization between processes in a multiprocessing system. 

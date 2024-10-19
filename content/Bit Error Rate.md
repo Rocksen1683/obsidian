@@ -1,0 +1,1 @@
+Probability that a bit is in *error*.

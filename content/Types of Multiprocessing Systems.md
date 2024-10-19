@@ -1,0 +1,4 @@
+There are *three* main types of multiprocessing systems. 
+- **Distributed Multiprocessor:** A *loosely coupled* system with  a collection of several separate autonomous processors that have their own main memory, I/O channels etc
+- **Functionally Specialized Multiprocessor:** A system that has a *main* processor with several individual processors that handle a *specialized* function. An example of a specialized processor like that would be an **I/O Processor**
+- **Tightly Coupled Multiprocessor:** Consists of a set of processors that share a common main memory and are under integrated control of an operating system

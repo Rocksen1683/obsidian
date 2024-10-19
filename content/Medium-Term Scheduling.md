@@ -1,0 +1,1 @@
+The *medium-term scheduler* is involved in *swapping-in* processes. This means it makes the decision to add to the number of processes that partially or fully in main memory.

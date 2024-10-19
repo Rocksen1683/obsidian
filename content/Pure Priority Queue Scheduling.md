@@ -1,0 +1,3 @@
+In this algorithm, each process will be given a *priority* and instead of a single *ready queue*, we will have multiple ready queues labelled by priority. When a scheduling selection is to be made, the scheduler will start with the *highest-priority ready queue*
+
+Issue with this is *lower priority* processes will suffer of [[Starvation]]. This can happen pretty often as you might end up with a situation where there are a lot of processes with *high priority* and the low priority ones don't get triggered. 

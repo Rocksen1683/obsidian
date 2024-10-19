@@ -1,0 +1,1 @@
+Maximum times per second that the signal can change (in Hertz)

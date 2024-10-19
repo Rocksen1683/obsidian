@@ -1,0 +1,3 @@
+- Inexpensive and easy to install
+- Two insulated *copper* wires 
+- 

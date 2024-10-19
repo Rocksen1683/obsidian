@@ -1,0 +1,1 @@
+Time required for signal to travel across media

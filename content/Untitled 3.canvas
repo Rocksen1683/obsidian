@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"bd2dc3badea2ab0d","x":-109,"y":-108,"width":250,"height":60,"type":"text","text":"Hi"},
+		{"id":"b4ba2f88dcd5e73b","x":-125,"y":105,"width":250,"height":60,"type":"text","text":""},
+		{"id":"346518f894a3acf0","x":-125,"y":105,"width":250,"height":60,"type":"text","text":""},
+		{"id":"e53df16c4e9eaac2","x":-125,"y":105,"width":250,"height":60,"type":"text","text":""},
+		{"id":"b775d76ac8903b77","x":-125,"y":105,"width":250,"height":60,"type":"text","text":""},
+		{"id":"2fb8d6601f1d7db1","x":-125,"y":105,"width":250,"height":60,"type":"text","text":""},
+		{"id":"710d4bf3bfd9c92f","x":-125,"y":105,"width":250,"height":60,"type":"text","text":""},
+		{"id":"187e29ad7c304efd","x":-125,"y":105,"width":250,"height":60,"type":"text","text":""},
+		{"id":"3c855ef1f9331f56","x":-125,"y":105,"width":250,"height":60,"color":"3","type":"text","text":"[[Untitled 2.canvas|Untitled 2]]"}
+	],
+	"edges":[]
+}
