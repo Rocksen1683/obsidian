@@ -13,5 +13,3 @@ How many users can use this network simultaneously under circuit-switching and p
 
 So, [[Packet Switching]] will be greater for a burst of data but at other times not and is possible for *excessive congestion* due to [[Packet Queuing and Loss]].
 
-
-

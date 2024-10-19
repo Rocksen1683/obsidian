@@ -1,6 +1,6 @@
 ## Lectures
 - [[Introduction to Networks]]
-- 
+- [[Link Layer and LANs]]
 
 
 ## Labs
