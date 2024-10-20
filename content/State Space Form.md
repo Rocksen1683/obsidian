@@ -17,7 +17,15 @@ which implies
 $$f: R^{n}\times R^{m} -> R^n$$
 $\mathcal{L}: R^{n}\times R^{m} -> R^p$
 
-#### Example 
+
+## State Space Form 
+
+The *state space form* consists of two things:
+- [[State Differential Equation]]
+- [[Output Equation of State]]
+
+
+### Example 
 $$x = \begin{bmatrix}x_{1} \\ x_{2} \end{bmatrix} \in R^2$$
 where $u\in R$ and $y \in R$
 

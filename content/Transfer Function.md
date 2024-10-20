@@ -18,7 +18,7 @@ We know that the determinant will be zero when
 $$det(sI - A) = 0 \implies s \in eig(A)$$
 Now that we have a value for $X(s)$, let us substitute it in the $Y(s)$ equation, giving
 $$Y(s) = C(sI - A)^{-1}BU(s) + DU(s)$$
-p
+
 $$Y(s) = G(s)U(s)$$
 where $G(s)$ is the *transfer function*
 
@@ -27,6 +27,8 @@ What this means is that $G_{ij}$ represents the *influence* of $U_{j}(s)$ on $Y_
 
 Now if you notice the final equation, you can see that we have no information of the state of the system $x$ or $X(s)$. This means that our initial system has 
 
+### [[State Transition Matrix]]
+**NOTE:** In the above equation, $(sI-A)^{-1} = \Phi (s)$, where $\Phi (s)$ represents the [[State Transition Matrix]] of a system. 
 ### Definitions
 
 - [[Real Rational TF]]
