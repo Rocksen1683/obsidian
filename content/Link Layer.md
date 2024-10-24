@@ -14,8 +14,7 @@ The link layer is responsible to act as a communication channel that *directly* 
 ### Error Correction 
 Receiver *identifies* and *corrects* bit errors without retransmission. 
 ### Reliable delivery between adjacent nodes
-Always used for links with *high error rates*, but is not as useful for links with *low error rates*.
-
+Always used for links with *high error rates*, but is not as useful for links with *low error rates*. [[Link Layer Reliable Data Transfer]]
 ### Flow Control 
 Pacing between adjacent sending and receiving nodes. 
 
@@ -28,3 +27,4 @@ The link layer is mainly implemented on the *Network Interface Card (NIC)*
 ### Receiving Side 
 - Looks for errors ([[Link Layer Error Detection]]), flow control, etc 
 - Extracts datagram and passes it to the [[Network Layer]] 
+- 
