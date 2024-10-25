@@ -1,0 +1,1 @@
+*Routing* is a *network-wide* process that determines the route taken by packets from the source to the destination and the path to fill the *forwarding tables*. 

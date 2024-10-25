@@ -35,7 +35,7 @@ $$d_{queue} = \frac{La}{R}$$
 Delay occurs due to [[Packet Switching]] and is mainly calculated by 
 $$d_{trans} = \frac{L}{R }$$
 ### Propagation Delay 
-To calculate *propagation delay*, we would need 
+To calculate [[Propagation Delay]], we would need 
 - $d$: length of the physical link 
 - $s$: propagation speed ($~ 2\times 10^{8}$ m/s)
 

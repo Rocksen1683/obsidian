@@ -1,0 +1,1 @@
+Any intermediary box performing functions apart from normal, standard functions of an IP router on the data path between a source host and destination host are called *middleboxes*. 

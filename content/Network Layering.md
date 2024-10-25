@@ -3,7 +3,7 @@
 ## Internet's Protocol Layers
 - *application*: supports network applications like HTTP, IMAP, SMTP, DNS. The data unit at the application layer is called a *message*
 - *transport*: process-process data transfer like TCP, UDP. A transport-layer data unit is called a *segment*
-- *network*: routing of data from source to destination like IP or routing protocols
+- *network*: routing of data from source to destination like IP or routing protocols. Sends a *datagram*. 
 - *link*: data transfer between neighbouring network elements. A link-layer data unit is called a *frame*. [[Link Layer]]
 - *physical*: the actual bits that are getting transmitted through wires 
 
