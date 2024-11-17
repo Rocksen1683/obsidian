@@ -8,7 +8,9 @@
 - [[Linear System Theory]]
 - [[System Stability]]
 - [[System Performance]]
-- [[Lower Order Approximations]]
+- [[Interconnected Systems]]
+- [[Stability of Interconnected Systems]]
+- [[Routh-Hurwitz Criterion]]
 
 
 ![[../Pasted image 20241019162143.png]]

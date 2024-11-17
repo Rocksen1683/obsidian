@@ -2,7 +2,7 @@
 
 ## Types of Locks
 
-There are 2 main general types of *locks*: 
+There are 3 main general types of *locks*: 
 - [[Spin Locks]]
 - [[Blocking Locks]]
-
+- [[Barrier Locks]]

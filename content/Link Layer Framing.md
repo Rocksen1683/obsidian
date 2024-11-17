@@ -19,4 +19,3 @@ To fix this, we can introduce *stuffing* but this could head to high overhead in
 This approach would treat the link as a bit stream and will have special bit patterns:
 - *flag*: `01111110`
 - *idle*: `01111110`
-- 

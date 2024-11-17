@@ -1,3 +1,4 @@
+
 Is a *simple* mechanism where the sender sends one packet (encapsulated in a frame) and then *waits* for the receiver's response. The sender won't send the next packet until it gets an acknowledgement from the receiver.
 
 To ensure this works, we would need the following structure:

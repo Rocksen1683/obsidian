@@ -1,0 +1,1 @@
+Acts asymmetrically, like non-recursive routines, by implicitly reactivating the coroutine that previously activated it.

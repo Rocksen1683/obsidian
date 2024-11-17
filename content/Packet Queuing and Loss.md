@@ -1,4 +1,4 @@
-If *arrival rate* (in bps) to the link exceeds the *transmission rate* (bps) of the link then the following can happen
+øIf *arrival rate* (in bps) to the link exceeds the *transmission rate* (bps) of the link then the following can happen
 - packets will *queue*, waiting to be transmitted on the output link 
 - packets can also be dropped (*lost*) if the buffer is full 
 

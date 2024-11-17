@@ -1,0 +1,9 @@
+```
+
+uCondLock{
+	wait()
+	signal()
+	broadcast()
+}
+```
+

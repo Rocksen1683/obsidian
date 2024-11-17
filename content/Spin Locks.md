@@ -33,6 +33,7 @@ class uLock {
 
 - Lock starts closed (0) or opened (1); waiting tasks compete to acquire lock after release.
 - `tryacquire` makes one attempt to acquire the lock, i.e., it does not wait.
+- Both of these locks are built directly from *atomic hardware instructions*.
 
 ### Synchronization
 ![[Pasted image 20241017190239.png]]

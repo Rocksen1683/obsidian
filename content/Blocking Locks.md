@@ -8,4 +8,3 @@ Therefore, all blocking locks have
 - [[Mutex Locks]]
 - [[Stream Locks]]
 - [[Synchronization Lock]]
-- 

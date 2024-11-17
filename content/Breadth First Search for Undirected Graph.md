@@ -1,4 +1,4 @@
-The breadth-first exploration of  [[Undirected Graph]] can be done in the following way. 
+The breadth-first exploration of [[Undirected Graph]] can be done in the following way. 
 
 ![[Pasted image 20240125130837.png]]
 
