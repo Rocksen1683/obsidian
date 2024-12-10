@@ -1,0 +1,1 @@
+*Cookies* are temporary data that a web application stores to maintain it's *statelessness* and push *state* to the client. 

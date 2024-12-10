@@ -11,6 +11,9 @@
 - [[Interconnected Systems]]
 - [[Stability of Interconnected Systems]]
 - [[Routh-Hurwitz Criterion]]
+- [[Nyquist Criterion]]
+- [[Bode Criterion]]
+- [[Loop Shaping]]
 
 
 ![[../Pasted image 20241019162143.png]]

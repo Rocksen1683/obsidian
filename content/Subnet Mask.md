@@ -1,0 +1,1 @@
+A *subnet mask* of `x` is made of `x` bits equal to $1$ followed $32-x$ bits equal to zero.

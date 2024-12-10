@@ -1,0 +1,1 @@
+*Explicit Monitor* is one that either uses `_Accept` like in [[Monitor External Scheduling]] or `signal()` like in [[Monitor Internal Scheduling]].

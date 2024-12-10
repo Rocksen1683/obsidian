@@ -1,0 +1,1 @@
+A *node* cannot send and receive at the same time. 
