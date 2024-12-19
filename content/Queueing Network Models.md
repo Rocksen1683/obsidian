@@ -11,4 +11,23 @@ Also helps in identification of *bottleneck* resources and comparative data on *
 ### Queues
 ![[Pasted image 20241209210954.png]]
 
-Follows [[Kendall Notation]]
+Follows [[Kendall Notation]].
+
+## Performance Metrics 
+*Performance Metrics* of interest of each server are: 
+- *Residence Time* ($RT$): the average time jobs spend in the server, in service and waiting
+- *Utilization* ($U$): the average percentage of the time the server is busy 
+- *Throughput* ($X$): the average rate at which jobs complete service
+- *Queue Length* ($N$): the average number of jobs at the server (receiving service and waiting)
+
+### Execution Profile
+![[Pasted image 20241212153052.png]]
+### Calculation of Performance Metrics 
+![[Pasted image 20241212153116.png]]
+
+### [[Utilization Law]]
+### [[Little's Law]]
+
+## [[Queue Analysis]]
+
+## [[Types of Queuing Network Models]]
