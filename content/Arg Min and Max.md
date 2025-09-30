@@ -1,0 +1,1 @@
+argmin returns the input value that results in the minimum output of a function, while argmax returns the input value that results in the maximum output of a function. For example, if a function's value is f(x), argmin(f(x)) is the x that makes f(x) the smallest, and argmax(f(x)) is the x that makes f(x) the largest
